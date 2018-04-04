@@ -1,7 +1,7 @@
 ---
 # vars.yml
 
-drone_host: tp113.ccm.u13.org
+drone_host: tp118.ccm.u13.org
 drone_admins:
  - Lowess
  - Catherine-H
