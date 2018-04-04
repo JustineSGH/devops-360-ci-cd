@@ -7,8 +7,8 @@ libvirt_vms:
   g4.drone:
     cpu: 1
     mem: 768
-    ip: "{{ libvirt_ip_prefix }}.66"
+    ip: "{{ libvirt_ip_prefix }}.166"
   g4.nodejs:
     cpu: 1
     mem: 768
-    ip: "{{ libvirt_ip_prefix }}.67"
+    ip: "{{ libvirt_ip_prefix }}.167"
